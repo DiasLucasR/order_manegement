@@ -44,3 +44,9 @@ npm run dev
 # ou
 yarn dev
 ```
+
+
+Imagens
+![product](https://github.com/user-attachments/assets/1840182e-dda0-45df-b890-668bc866effd)
+![Orders](https://github.com/user-attachments/assets/3ad66ecf-df1b-4806-99fb-24296d280744)
+![dashBoard](https://github.com/user-attachments/assets/3b1a6b60-dc5a-417c-84a7-c051714df7b2)
